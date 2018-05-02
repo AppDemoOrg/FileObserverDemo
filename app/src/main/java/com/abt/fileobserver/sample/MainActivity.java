@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         mListener = new SDCardListener(path);
         //开始监听
         mListener.startWatching();
-        /*
+        /**
          * 在这里做一些操作，比如创建目录什么的
          */
     }

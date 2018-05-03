@@ -3,6 +3,8 @@ package com.abt.fileobserver.sample;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.abt.fileobserver.R;
+
 public class MainActivity extends AppCompatActivity {
 
     private SDCardListener mListener;
